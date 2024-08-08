@@ -1,0 +1,47 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 06/08/2024 23:17:40
+================================================================
+[23:18:36][sancunha] created admins file
+[23:19:49][sancunha] Changing global/fxserver settings via setup stepper.
+[23:20:49][sancunha] Changing global settings.
+[23:23:37][sancunha] Changing global settings.
+[23:26:38][sancunha] executed "RESTART SERVER"
+[00:31:30][sancunha] executed "RESTART SERVER"
+[01:00:59][sancunha] executed "RESTART SERVER"
+[01:02:03][sancunha] executed "RESTART SERVER"
+[01:05:18][sancunha] executed "RESTART SERVER"
+[01:05:58][sancunha] executed "RESTART SERVER"
+[01:06:59][sancunha] executed "RESTART SERVER"
+[01:08:22][sancunha] executed "RESTART SERVER"
+[01:11:55][sancunha] executed "RESTART SERVER"
+[01:19:18][sancunha] executed "RESTART SERVER"
+[01:19:56][sancunha] executed "RESTART SERVER"
+[01:20:41][sancunha] executed "RESTART SERVER"
+[01:23:17][sancunha] executed "RESTART SERVER"
+[01:26:09][sancunha] executed "RESTART SERVER"
+[01:29:51][sancunha] executed "RESTART SERVER"
+[01:56:22][sancunha] executed "RESTART SERVER"
+[01:59:26][sancunha] executed "RESTART SERVER"
+[02:00:53][sancunha] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 07/08/2024 02:06:41
+================================================================
+[02:06:54][sancunha] logged in from 127.0.0.1 via citizenfx
+[02:09:31][sancunha] executed "RESTART SERVER"
+[02:12:01][sancunha] executed "RESTART SERVER"
+[02:15:04][sancunha] executed "RESTART SERVER"
+[02:17:43][sancunha] executed "RESTART SERVER"
+[02:18:23][sancunha] executed "RESTART SERVER"
+[02:18:48][sancunha] executed "RESTART SERVER"
+[02:19:12][sancunha] executed "RESTART SERVER"
+[02:19:49][sancunha] executed "RESTART SERVER"
+[02:20:22][sancunha] executed "RESTART SERVER"
+[02:20:52][sancunha] executed "RESTART SERVER"
+[02:23:45][sancunha] executed "RESTART SERVER"
+[02:25:16][sancunha] executed "RESTART SERVER"
+[02:26:06][sancunha] executed "RESTART SERVER"
+[02:28:30][sancunha] executed "RESTART SERVER"
+[02:30:23][sancunha] executed "RESTART SERVER"
+[02:34:05][sancunha] executed "RESTART SERVER"

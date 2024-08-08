@@ -1,0 +1,357 @@
+
+================================================================
+======== FXServer Starting - 06/08/2024 23:19:49                
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 80 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+Stack overflow in unmanaged: IP: 0x7f2b4a99ff2f, fault addr: 0x7ffca351a8b0
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for vrp
+[       resources:vrp] Warning: could not find file `lib/Luaseq.lua` (defined in fxmanifest.lua:18)
+[           resources] Started resource vrp (1 warning)
+[    c-scripting-core] Creating script environments for ghmattimysql
+[           resources] Started resource ghmattimysql
+[    c-scripting-core] Creating script environments for mysql
+[           resources] Started resource mysql
+[           resources] Started resource logsystem
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for vehcontrol
+[           resources] Started resource vehcontrol
+[ citizen-server-impl] Couldn't find resource creativeMaps.
+[    c-scripting-core] Creating script environments for chat
+[      resources:chat] Warning: could not find file `html/config.js` (defined in fxmanifest.lua:16)
+[           resources] Started resource chat (1 warning)
+[           resources] Started resource vehmenu
+[           resources] Started resource creative
+[    c-scripting-core] Creating script environments for tablet
+[    c-scripting-core] Failed to load script @mysql-async/lib/MySQL.lua.
+[           resources] Started resource tablet
+[    c-scripting-core] Creating script environments for circuits
+[           resources] Started resource circuits
+[    c-scripting-core] Creating script environments for doors
+[           resources] Started resource doors
+[    c-scripting-core] Creating script environments for hud
+[           resources] Started resource hud
+[           resources] Started resource notify
+[           resources] Started resource notifycall
+[           resources] Started resource notifyitens
+[    c-scripting-core] Creating script environments for showids
+[           resources] Started resource showids
+[    c-scripting-core] Creating script environments for garages
+[           resources] Started resource garages
+[    c-scripting-core] Creating script environments for inventory
+[           resources] Started resource inventory
+[    c-scripting-core] Creating script environments for itemdamage
+[           resources] Started resource itemdamage
+[    c-scripting-core] Creating script environments for crafting
+[           resources] Started resource crafting
+[    c-scripting-core] Creating script environments for admin
+[           resources] Started resource admin
+[           resources] Started resource animacoes
+[    c-scripting-core] Creating script environments for atm
+[           resources] Started resource atm
+[    c-scripting-core] Creating script environments for bank
+[           resources] Started resource bank
+[           resources] Started resource hoverfy
+[    c-scripting-core] Creating script environments for player
+[           resources] Started resource player
+[    c-scripting-core] Creating script environments for survival
+[  resources:survival] Warning: could not find file `web-side/index.js` (defined in fxmanifest.lua:16)
+[           resources] Started resource survival (1 warning)
+[    c-scripting-core] Creating script environments for shops
+[           resources] Started resource shops
+[    c-scripting-core] Creating script environments for dynamic
+[           resources] Started resource dynamic
+[    c-scripting-core] Creating script environments for barbershop
+[           resources] Started resource barbershop
+[    c-scripting-core] Creating script environments for skinshop
+[           resources] Started resource skinshop
+[    c-scripting-core] Creating script environments for bdonate
+[           resources] Started resource bdonate
+[    c-scripting-core] Creating script environments for blipsystem
+[           resources] Started resource blipsystem
+[    c-scripting-core] Creating script environments for chest
+[           resources] Started resource chest
+[ citizen-server-impl] Couldn't find resource dna.
+[    c-scripting-core] Creating script environments for engine
+[           resources] Started resource engine
+[ citizen-server-impl] Couldn't find resource homes.
+[    c-scripting-core] Creating script environments for hospital
+[           resources] Started resource hospital
+[    c-scripting-core] Creating script environments for inspect
+[           resources] Started resource inspect
+[    c-scripting-core] Creating script environments for spawn
+[           resources] Started resource spawn
+[    c-scripting-core] Creating script environments for notepad
+[           resources] Started resource notepad
+[    c-scripting-core] Creating script environments for prison
+[           resources] Started resource prison
+[    c-scripting-core] Creating script environments for radio
+[           resources] Started resource radio
+[    c-scripting-core] Creating script environments for rope
+[           resources] Started resource rope
+[           resources] Started resource safelocker
+[           resources] Started resource sounds
+[    c-scripting-core] Creating script environments for tackle
+[           resources] Started resource tackle
+[           resources] Started resource taskbar
+[    c-scripting-core] Creating script environments for tencode
+[           resources] Started resource tencode
+[    c-scripting-core] Creating script environments for lscustoms
+[           resources] Started resource lscustoms
+[    c-scripting-core] Creating script environments for trunkchest
+[           resources] Started resource trunkchest
+[    c-scripting-core] Creating script environments for yellowpages
+[           resources] Started resource yellowpages
+[           resources] Started resource target
+[    c-scripting-core] Creating script environments for tattoos
+[           resources] Started resource tattoos
+[ citizen-server-impl] Couldn't find resource police.
+[    c-scripting-core] Creating script environments for luckywheel
+[           resources] Started resource luckywheel
+[    c-scripting-core] Creating script environments for airforce
+[           resources] Started resource airforce
+[    c-scripting-core] Creating script environments for cashmachine
+[           resources] Started resource cashmachine
+[    c-scripting-core] Creating script environments for corrections
+[           resources] Started resource corrections
+[    c-scripting-core] Creating script environments for dismantle
+[           resources] Started resource dismantle
+[    c-scripting-core] Creating script environments for driver
+[           resources] Started resource driver
+[    c-scripting-core] Creating script environments for drugs
+[           resources] Started resource drugs
+[    c-scripting-core] Creating script environments for garbageman
+[           resources] Started resource garbageman
+[    c-scripting-core] Creating script environments for harvest
+[           resources] Started resource harvest
+[    c-scripting-core] Creating script environments for impound
+[           resources] Started resource impound
+[    c-scripting-core] Creating script environments for lumberman
+[           resources] Started resource lumberman
+[    c-scripting-core] Creating script environments for miner
+[           resources] Started resource miner
+[    c-scripting-core] Creating script environments for transporter
+[           resources] Started resource transporter
+[    c-scripting-core] Creating script environments for foodfarm
+[           resources] Started resource foodfarm
+[    c-scripting-core] Creating script environments for methlabs
+[           resources] Started resource methlabs
+[    c-scripting-core] Creating script environments for robberys
+[           resources] Started resource robberys
+[    c-scripting-core] Creating script environments for stockade
+[           resources] Started resource stockade
+[    c-scripting-core] Creating script environments for towdriver
+[           resources] Started resource towdriver
+[ citizen-server-impl] Could not open server.png for reading.
+[ script:ghmattimysql] [ghmattimysql] [ERROR] ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://sancunha-dler4j.users.cfx.re/
+[ citizen-server-impl] -- [server notice: hostname_rework]
+[ citizen-server-impl] You don't have sv_projectName/sv_projectDesc set.
+[ citizen-server-impl] These variables augment sv_hostname and fix your server name being cut off in the server list.
+[ citizen-server-impl] Use `sets sv_projectName ..` and `sets sv_projectDesc ..` to set them.
+> setr "txAdmin-locale" "pt"
+> set "txAdmin-localeFile" "/home/san-cunha/Documentos/GitHub/metropole-garage/fivem-server/server/fx/txData/locale.json"
+> setr "txAdmin-verbose" "false"
+> set "txAdmin-checkPlayerJoin" "true"
+> set "txAdmin-menuAlignRight" "false"
+> set "txAdmin-menuPageKey" "Tab"
+> set "txAdmin-hideDefaultAnnouncement" "false"
+> set "txAdmin-hideDefaultDirectMessage" "false"
+> set "txAdmin-hideDefaultWarning" "false"
+> set "txAdmin-hideDefaultScheduledRestartWarning" "false"
+> txaEvent "configChanged" "{}"
+> setr "txAdmin-locale" "pt"
+> set "txAdmin-localeFile" "/home/san-cunha/Documentos/GitHub/metropole-garage/fivem-server/server/fx/txData/locale.json"
+> setr "txAdmin-verbose" "false"
+> set "txAdmin-checkPlayerJoin" "true"
+> set "txAdmin-menuAlignRight" "false"
+> set "txAdmin-menuPageKey" "Tab"
+> set "txAdmin-hideDefaultAnnouncement" "false"
+> set "txAdmin-hideDefaultDirectMessage" "false"
+> set "txAdmin-hideDefaultWarning" "false"
+> set "txAdmin-hideDefaultScheduledRestartWarning" "false"
+> txaEvent "configChanged" "{}"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂sancunha＂,＂message＂:＂Servidor reiniciando (requested by sancunha).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 06/08/2024 23:26:44                
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 80 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for vrp
+[       resources:vrp] Warning: could not find file `lib/Luaseq.lua` (defined in fxmanifest.lua:18)
+[           resources] Started resource vrp (1 warning)
+[    c-scripting-core] Creating script environments for ghmattimysql
+[           resources] Started resource ghmattimysql
+[    c-scripting-core] Creating script environments for mysql
+[           resources] Started resource mysql
+[           resources] Started resource logsystem
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for vehcontrol
+[           resources] Started resource vehcontrol
+[ citizen-server-impl] Couldn't find resource creativeMaps.
+[    c-scripting-core] Creating script environments for chat
+[      resources:chat] Warning: could not find file `html/config.js` (defined in fxmanifest.lua:16)
+[           resources] Started resource chat (1 warning)
+[           resources] Started resource vehmenu
+[           resources] Started resource creative
+[    c-scripting-core] Creating script environments for tablet
+[    c-scripting-core] Failed to load script @mysql-async/lib/MySQL.lua.
+[           resources] Started resource tablet
+[    c-scripting-core] Creating script environments for circuits
+[           resources] Started resource circuits
+[    c-scripting-core] Creating script environments for doors
+[           resources] Started resource doors
+[    c-scripting-core] Creating script environments for hud
+[           resources] Started resource hud
+[           resources] Started resource notify
+[           resources] Started resource notifycall
+[           resources] Started resource notifyitens
+[    c-scripting-core] Creating script environments for showids
+[           resources] Started resource showids
+[    c-scripting-core] Creating script environments for garages
+[           resources] Started resource garages
+[    c-scripting-core] Creating script environments for inventory
+[           resources] Started resource inventory
+[    c-scripting-core] Creating script environments for itemdamage
+[           resources] Started resource itemdamage
+[    c-scripting-core] Creating script environments for crafting
+[           resources] Started resource crafting
+[    c-scripting-core] Creating script environments for admin
+[           resources] Started resource admin
+[           resources] Started resource animacoes
+[    c-scripting-core] Creating script environments for atm
+[           resources] Started resource atm
+[    c-scripting-core] Creating script environments for bank
+[           resources] Started resource bank
+[           resources] Started resource hoverfy
+[    c-scripting-core] Creating script environments for player
+[           resources] Started resource player
+[    c-scripting-core] Creating script environments for survival
+[  resources:survival] Warning: could not find file `web-side/index.js` (defined in fxmanifest.lua:16)
+[           resources] Started resource survival (1 warning)
+[    c-scripting-core] Creating script environments for shops
+[           resources] Started resource shops
+[    c-scripting-core] Creating script environments for dynamic
+[           resources] Started resource dynamic
+[    c-scripting-core] Creating script environments for barbershop
+[           resources] Started resource barbershop
+[    c-scripting-core] Creating script environments for skinshop
+[           resources] Started resource skinshop
+[    c-scripting-core] Creating script environments for bdonate
+[           resources] Started resource bdonate
+[    c-scripting-core] Creating script environments for blipsystem
+[           resources] Started resource blipsystem
+[    c-scripting-core] Creating script environments for chest
+[           resources] Started resource chest
+[ citizen-server-impl] Couldn't find resource dna.
+[    c-scripting-core] Creating script environments for engine
+[           resources] Started resource engine
+[ citizen-server-impl] Couldn't find resource homes.
+[    c-scripting-core] Creating script environments for hospital
+[           resources] Started resource hospital
+[    c-scripting-core] Creating script environments for inspect
+[           resources] Started resource inspect
+[    c-scripting-core] Creating script environments for spawn
+[           resources] Started resource spawn
+[    c-scripting-core] Creating script environments for notepad
+[           resources] Started resource notepad
+[    c-scripting-core] Creating script environments for prison
+[           resources] Started resource prison
+[    c-scripting-core] Creating script environments for radio
+[           resources] Started resource radio
+[    c-scripting-core] Creating script environments for rope
+[           resources] Started resource rope
+[           resources] Started resource safelocker
+[           resources] Started resource sounds
+[    c-scripting-core] Creating script environments for tackle
+[           resources] Started resource tackle
+[           resources] Started resource taskbar
+[    c-scripting-core] Creating script environments for tencode
+[           resources] Started resource tencode
+[    c-scripting-core] Creating script environments for lscustoms
+[           resources] Started resource lscustoms
+[    c-scripting-core] Creating script environments for trunkchest
+[           resources] Started resource trunkchest
+[    c-scripting-core] Creating script environments for yellowpages
+[           resources] Started resource yellowpages
+[           resources] Started resource target
+[    c-scripting-core] Creating script environments for tattoos
+[           resources] Started resource tattoos
+[ citizen-server-impl] Couldn't find resource police.
+[    c-scripting-core] Creating script environments for luckywheel
+[           resources] Started resource luckywheel
+[    c-scripting-core] Creating script environments for airforce
+[           resources] Started resource airforce
+[    c-scripting-core] Creating script environments for cashmachine
+[           resources] Started resource cashmachine
+[    c-scripting-core] Creating script environments for corrections
+[           resources] Started resource corrections
+[    c-scripting-core] Creating script environments for dismantle
+[           resources] Started resource dismantle
+[    c-scripting-core] Creating script environments for driver
+[           resources] Started resource driver
+[    c-scripting-core] Creating script environments for drugs
+[           resources] Started resource drugs
+[    c-scripting-core] Creating script environments for garbageman
+[           resources] Started resource garbageman
+[    c-scripting-core] Creating script environments for harvest
+[           resources] Started resource harvest
+[    c-scripting-core] Creating script environments for impound
+[           resources] Started resource impound
+[    c-scripting-core] Creating script environments for lumberman
+[           resources] Started resource lumberman
+[    c-scripting-core] Creating script environments for miner
+[           resources] Started resource miner
+[    c-scripting-core] Creating script environments for transporter
+[           resources] Started resource transporter
+[    c-scripting-core] Creating script environments for foodfarm
+[           resources] Started resource foodfarm
+[    c-scripting-core] Creating script environments for methlabs
+[           resources] Started resource methlabs
+[    c-scripting-core] Creating script environments for robberys
+[           resources] Started resource robberys
+[    c-scripting-core] Creating script environments for stockade
+[           resources] Started resource stockade
+[    c-scripting-core] Creating script environments for towdriver
+[           resources] Started resource towdriver
+[ citizen-server-impl] Could not open server.png for reading.
+[ script:ghmattimysql] [ghmattimysql] [ERROR] ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://sancunha-dler4j.users.cfx.re/

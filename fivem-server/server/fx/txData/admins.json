@@ -1,0 +1,21 @@
+[
+  {
+    "name": "sancunha",
+    "master": true,
+    "password_hash": "$2a$11$IerWIQkJ.KPzP/lH.7HTteb2BF7bLx4vzadBJheueUAj2utGXVkay",
+    "providers": {
+      "citizenfx": {
+        "id": "sancunha",
+        "identifier": "fivem:14771222",
+        "data": {
+          "sub": "83e2e16753a35b7776cf352b16be2bb9",
+          "nameid": "https://forum.cfx.re/internal/user/14771222",
+          "name": "sancunha",
+          "picture": "https://avatars.discourse.org/v4/letter/s/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/sancunha"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
